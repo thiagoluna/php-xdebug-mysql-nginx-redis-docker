@@ -1,0 +1,7 @@
+.docker/dbdata
+/.env
+.idea
+
+Docker container for PHP apps with PHP, Xdebug, Mysql, Nginx and Redis
+
+php-xdebug-mysql-nginx-redis-docker
