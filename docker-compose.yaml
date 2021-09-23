@@ -9,6 +9,8 @@ services:
         user: user
         uid: 1000
     container_name: app
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     restart: unless-stopped
     entrypoint: dockerize -template ./.docker/app/.env:.env -wait tcp://db:3306 -timeout 40s ./.docker/entrypoint.sh
     environment:
