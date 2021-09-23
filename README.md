@@ -33,4 +33,4 @@ These envs should be at `docker-compose.yaml` and `.docker/app/.env`
 [Click here](https://dev.to/thiagoluna/xdebug-3-no-phpstorm-com-php-7-4-55jm) to see a tutorial explaining how to setup 
 Xdebug in PHPStorm.
 
-Thiago Luna - [Linkedin](https://www.linkedin.com/in/thiago-luna/)
+Thiago Luna - [Linkedin](https://www.linkedin.com/in/thiago-luna/ "(target|_blank)")
