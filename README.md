@@ -30,7 +30,8 @@ Use DB envs as example and do the same for other envs you need.
 These envs should be at `docker-compose.yaml` and `.docker/app/.env` 
 
 ## 📝 Xdebug in PHPStorm
-[Click here](https://dev.to/thiagoluna/xdebug-3-no-phpstorm-com-php-7-4-55jm) to see a tutorial explaining how to setup 
+<a href="https://dev.to/thiagoluna/xdebug-3-no-phpstorm-com-php-7-4-55jm" target="_blank">Click Here</a>
+to see a tutorial explaining how to setup 
 Xdebug in PHPStorm.
 
-Thiago Luna - [Linkedin](https://www.linkedin.com/in/thiago-luna/")
+Thiago Luna - <a href="https://www.linkedin.com/in/thiago-luna/" target="_blank">Linkedin</a>
