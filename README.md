@@ -18,7 +18,7 @@ Clone this Repository, enter on its folder and start the containers.
 ```sh 
 # docker-compose up -d
 ```  
-Access the Frontend in the browser http://localhost:8080  
+Access the Frontend in the browser http://localhost:8000  
 You should see phpinfo page.
 
 ## 💻 For Laravel Apps
